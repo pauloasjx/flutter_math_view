@@ -19,8 +19,8 @@ FlutterMathView(
 
 ## Images
 <div style="float: left">
-    <img src="https://github.com/pstwh/flutter_math_view/raw/master/doc/1.jpg" height="400"/>
-    <img src="https://github.com/pstwh/flutter_math_view/raw/master/doc/2.jpg" height="400"/>
+    <img src="https://github.com/pauloasjx/flutter_math_view/raw/master/doc/1.jpg" height="400"/>
+    <img src="https://github.com/pauloasjx/flutter_math_view/raw/master/doc/2.jpg" height="400"/>
 </div>
 
 ## Packages/Credits
